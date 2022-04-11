@@ -32,7 +32,6 @@ a{
 .left, section, .right{
     display: inline-block;
     /* text-align: center; */
-    /* width: 50%; */
     height: 50%;
 }
 .left{
