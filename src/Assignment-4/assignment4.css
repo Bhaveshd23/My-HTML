@@ -19,7 +19,7 @@ body {
   header h1 {
     float: left;
     text-indent: -9999px;
-    background: url('../images/image8.png') no-repeat;
+    background: url('./images/image8.png') no-repeat;
     height: 35px;
     width: 35px;
     margin-top: 8px;
@@ -44,7 +44,7 @@ body {
     cursor: pointer;
   }
   #hero {
-    background: url('../images/image2.jpg') no-repeat;
+    background: url('./images/image2.jpg') no-repeat;
     /* background-image: '../images/image2.png'; */
     /* background-image: url('../images/image2.jpg') no-repeat; */
     background-size: cover;
